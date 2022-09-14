@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "blog",
+        "1": "productivity",
+        "2": "technical",
+        "3": "news",
+        "4": "data (things)"
+    },
+    "demo_page": "https://dating-template.bubbleapps.io/",
+    "description": "This is a plugin to complement methods of the \"Matching / Dating Template Pro\" by Bleap",
+    "image": "//s3.amazonaws.com/appforest_uf/f1644438477662x378070635819165400/Bleap-logo-600.png",
+    "license": "open_source",
+    "name": "Matching Template Methods",
+    "plugin_instructions": "Just install the plugin in the project with the \"Matching / Dating Template Pro\" by Bleap"
+}

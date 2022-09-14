@@ -1,0 +1,42 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 40,
+        "width": 40
+    },
+    "display": "Filter anything",
+    "fields": {
+        "AAD": {
+            "caption": "Search input ID",
+            "doc": "ID of the search input you will use",
+            "editor": "StaticText",
+            "name": "search_input_id",
+            "rank": 0
+        },
+        "AAE": {
+            "caption": "Items Parent ID",
+            "doc": "Element parent that contains the items to filter",
+            "editor": "StaticText",
+            "name": "items_parent_id",
+            "rank": 2
+        },
+        "AAF": {
+            "caption": "Field Id",
+            "doc": "Item field that you want to match",
+            "editor": "StaticText",
+            "name": "field_id",
+            "rank": 1
+        },
+        "AAH": {
+            "caption": "Arrow back ID",
+            "editor": "StaticText",
+            "name": "arrow_back_id",
+            "rank": 3
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "property_applications": {
+        "resizable": true
+    }
+}
